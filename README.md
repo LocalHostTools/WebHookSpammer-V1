@@ -6,4 +6,4 @@ WebHook Spammer
 ### Explain : https://youtu.be/xlmd92JHOgg?si=yuaMACoW6HXtcSDG
 ### Discord Server : https://discord.gg/nRyW9Sf4P5
 ### My WebSite : https://local-host-tools.netlify.app/
-#Thank You For Read This :{
+# Thank You For Read This :{
